@@ -8,12 +8,12 @@
 - *Optional:* [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani]]. It is available online in pdf format
 - *Optional:* For more advance treatment [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning]]. It is available online in pdf format   
 * Course Description
-Pattern recognition is in exciting area. We will go though theory behind
+Pattern recognition is an exciting area. We will go though theory behind
 pattern recognition using tool from probability and linear algebra.
 We will use python, its [[https://www.scipy.org/][scientific libraries]] (numpy, scipy, matplotlib etc.)
 and [[http://scikit-learn.org/stable/][scikit-learn: Machine Learning in Python]] during the course. For deep neural network part, we will use
-highly pouplar [[https://www.tensorflow.org/][tensorflow Machine Intelligence]] library. For assignments, starter code  or hint will be given.
-from the Google. One can use other languages and tools as per comfort level. 
+highly pouplar [[https://www.tensorflow.org/][tensorflow Machine Intelligence]] library from the Google. For assignments, starter code  or hint will be given.
+One can use other languages and tools as per comfort level. 
 At the end of the course one should be able to understand theory behind various
 machine learning algorithms, be comfortable using open source tool for pattern recognition.
 
