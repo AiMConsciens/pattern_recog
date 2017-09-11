@@ -1,3 +1,9 @@
-<details> * Pattern Recognition  Fall 2017 </details>
+** Pattern Recognition  Fall 2017 **
 
-<details> * Pattern Recognition  Fall 2017 </details>
+**Instructor: Pooran Singh Negi, pooran.negi@gmail.com**
+
+* Syllabus
+Here are the main topics for the class
+- Generative models
+
+
