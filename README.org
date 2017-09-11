@@ -1,6 +1,6 @@
-**Pattern Recognition  Fall 2017**
+*Pattern Recognition  Fall 2017*
 
-**Instructor: Pooran Singh Negi, pooran.negi@gmail.com**
+*Instructor:* /Pooran Singh Negi, pooran.negi@gmail.com/
 
 * Syllabus
 Here are the main topics for the class
