@@ -1,6 +1,23 @@
 *Pattern Recognition  Fall 2017*
 
-*Instructor:* /Pooran Singh Negi, pooran.negi@gmail.com/
+  - Instructor: /Pooran Singh Negi, pooran.negi@gmail.com/
+  - Office Hours: After the class 3.50- 4.50. Email for 1-on-1 help.
+* Course Description
+Patter recognition is in exciting area. We will go though theory behind
+pattern recognition using tool from probability and linear algebra.
+We will use python, its [[https://www.scipy.org/][scientific libraries]] (numpy, scipy, matplotlib etc.)
+and [[http://scikit-learn.org/stable/][scikit-learn: Machine Learning in Python]] during the course. For deep neural network part, we will use
+highly pouplar [[https://www.tensorflow.org/][tensorflow Machine Intelligence]] library
+from the Google.  For out of the box machine learning alrogrith One can use other languages and tools as per comfort level. 
+At the end of the course one should be able to understand theory behind various
+machine learning algorithms, be comfortable using open source tool for pattern recognition.
+
+* Software
+Please install [[https://www.anaconda.com/download/][Anaconda for Python 2.7 data science platform.
+]]For Deep Neural networks, we will go over installation instruction.
+* Prerequisite
+Student should be comfortable with linear algebra, probability, statistics
+and some programming experience. We will cover basics in the class.
 
 * Syllabus
 Here are the main topics for the class
