@@ -4,7 +4,7 @@
   - Office: 248
   - Office Hours: After the class T, Th,  3.50- 4.50. Email for 1-on-1 help.
 * TextBooks
-- *Required:*  [[https://www.cs.ubc.ca/~murphyk/MLbook/][Machine Learning: a Probabilistic Perspective by Kevin Patrick Murphy]]. Online version is available in the library.
+- *Required:*  [[https://www.cs.ubc.ca/~murphyk/MLbook/][Machine Learning: a Probabilistic Perspective by Kevin Patrick Murphy]]. Online version is available in the [[https://library.du.edu/][DU library]].
 - *Optional:* [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani]]. It is available online in pdf format
 - *Optional:* For more advance treatment [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning]]. It is available online in pdf format   
 * Course Description
