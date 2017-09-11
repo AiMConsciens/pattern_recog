@@ -1,14 +1,14 @@
-*pattern recognition*
-  - Course: ENCE 3630 &amp; ENCE 4630 2017
+*Pattern Recognition*
+  - Course: ENCE 3630 and ENCE 4630 2017
   - Instructor: /Pooran Singh Negi, pooran.negi@gmail.com/
   - Office: 248
-  - Office Hours: After the class 3.50- 4.50. Email for 1-on-1 help.
+  - Office Hours: After the class T, Th,  3.50- 4.50. Email for 1-on-1 help.
 * TextBooks
 - *Required:*  [[https://www.cs.ubc.ca/~murphyk/MLbook/][Machine Learning: a Probabilistic Perspective by Kevin Patrick Murphy]]. Online version is available in the library.
 - *Optional:* [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani]]. It is available online in pdf format
-- *Optional:* Fora more advance treatment [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning]]. It is available online in pdf format   
+- *Optional:* For more advance treatment [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning]]. It is available online in pdf format   
 * Course Description
-Patter recognition is in exciting area. We will go though theory behind
+Pattern recognition is in exciting area. We will go though theory behind
 pattern recognition using tool from probability and linear algebra.
 We will use python, its [[https://www.scipy.org/][scientific libraries]] (numpy, scipy, matplotlib etc.)
 and [[http://scikit-learn.org/stable/][scikit-learn: Machine Learning in Python]] during the course. For deep neural network part, we will use
@@ -27,7 +27,7 @@ and some programming experience. We will cover basics in the class.
 * Syllabus
 Here are the main topics for the class
 - Basic idea of machine learning, and probability
-- Generative models, Parametric estimation and supervised learning.
+- Generative models, parametric estimation and supervised learning.
   - Naive Bayes classifier
 - Gaussian models
 - Linear and logistic regression
@@ -38,5 +38,20 @@ Here are the main topics for the class
   - Artificial Neural Networks(ANN)
   - Convolutional Neural Networks(CNN) for classification and regression
   - Recurrent Neural Networks for natural language processing(NLP) and time series data
+* Grading
+There will be one mid term and a final, homework assignments, in class quizzes and project assignments.
+Worst 2 of your homework assignments and 2 quizzes will be dropped.
+
+|----------+-------------------------+-------------------|
+|          | Under Graduate students | Graduate students |
+|----------+-------------------------+-------------------|
+| Homework | 40 %                    |               25% |
+|----------+-------------------------+-------------------|
+| Midterm  | 30%                     |               25% |
+|----------+-------------------------+-------------------|
+| Final    | 30 %                    |               30% |
+|----------+-------------------------+-------------------|
+| Project  |                         |               20% |
+|----------+-------------------------+-------------------|
 
 
