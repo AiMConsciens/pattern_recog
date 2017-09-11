@@ -40,7 +40,7 @@ Here are the main topics for the class
   - Convolutional Neural Networks(CNN) for classification and regression
   - Recurrent Neural Networks for natural language processing(NLP) and time series data
 * Grading
-There will be one mid term and a final, homework assignments, in class quizzes and project assignments.
+There will be one mid term, a final exam, homework assignments, in class quizzes.
 Worst 2 of your homework assignments and 2 quizzes will be dropped.
 
 |----------------------------+-------------------------+-------------------|
