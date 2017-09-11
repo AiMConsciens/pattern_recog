@@ -27,7 +27,7 @@ Student should be comfortable with linear algebra, probability, statistics
 and some programming experience. We will cover basics in the class.
 
 * Syllabus
-Here are the main topics for the class
+Here are the main topics for the class. More topics can be added as per class interest and available time.
 - Basic idea of machine learning, and probability
 - Generative models, parametric estimation and supervised learning.
   - Naive Bayes classifier etc.
