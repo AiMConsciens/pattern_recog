@@ -34,7 +34,7 @@ Here are the main topics for the class
 - Linear and logistic regression
 - Support vector machine, Kernels
 - Unsupervised learning
-  - Clustering
+  - Clustering etc.
 - Deep learning
   - Artificial Neural Networks(ANN)
   - Convolutional Neural Networks(CNN) for classification and regression
