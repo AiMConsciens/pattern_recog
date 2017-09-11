@@ -34,27 +34,29 @@ Here are the main topics for the class. More topics can be added as per class in
 - Gaussian models
 - Linear and logistic regression
 - Support vector machine, Kernels
+- Decision tree.
+- Bagging, boosting and model selection etc.
 - Unsupervised learning
   - Clustering etc.
 - Deep learning
-  - Artificial Neural Networks(ANN)
-  - Convolutional Neural Networks(CNN) for classification and regression
+  - Artificial Neural Networks(ANN), End to end learning, cost function
+  - Convolutional Neural Networks(CNN) for classification(image) and regression
   - Recurrent Neural Networks for natural language processing(NLP) and time series data
 * Grading
 There will be one mid term, a final exam, homework assignments, in class quizzes.
-Worst 2 of your homework assignments and 2 quizzes will be dropped.
+Worst 2 of your homework assignments and 2 quizzes will be dropped. Students enrolled in 
+ENCE 4630 will be asked to do slightly more homework questions.
 
-|----------------------------+-------------------------+-------------------|
-|                            | Under Graduate students | Graduate students |
-|----------------------------+-------------------------+-------------------|
-| Homework                   | 30 %                    |               25% |
-|----------------------------+-------------------------+-------------------|
-| Midterm exam, 17th October | 30%                     |               25% |
-|----------------------------+-------------------------+-------------------|
-| Final exam, 21 Nov         | 30 %                    |               30% |
-|----------------------------+-------------------------+-------------------|
-| Final Project, Due 23 Nov  | 15%                     |               20% |
-|----------------------------+-------------------------+-------------------|
+
+|----------------------------+-------------------------+
+| Homework + Quizzes         |             30(20+10) % |
+|----------------------------+-------------------------+
+| Midterm exam, 17th October |                     25% |
+|----------------------------+-------------------------+
+| Final exam, 21 Nov         |                     25% |
+|----------------------------+-------------------------+
+| Final Project, Due 23 Nov  |                     20% |
+|----------------------------+-------------------------+
 
 
 
