@@ -63,9 +63,9 @@ ENCE 4630 will be asked to do slightly more homework questions.
 * Course Lectures
 
 
-| Date        | Reading assignment             | uploaded slides |
-|-------------+--------------------------------+-----------------|
-| 12 sep 2017 | Read chapter 1 of Kevin Murphy |                 |
-|-------------+--------------------------------+-----------------|
-|             |                                |                 |
+| Date        | Reading assignment             | uploaded slides                                         |
+|-------------+--------------------------------+---------------------------------------------------------|
+| 12 sep 2017 | Read chapter 1 of Kevin Murphy | [[./lectures/lecture1.pdf][overview of pattern recognition]] [[http://cs229.stanford.edu/section/cs229-linalg.pdf][linear algebra overview]] |
+|-------------+--------------------------------+---------------------------------------------------------|
+|             |                                |                                                         |
 
