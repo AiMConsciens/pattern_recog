@@ -24,7 +24,7 @@ See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing A
 You can also go to my  [[https://github.com/psnegi/PythonForReproducibleResearch][python for reproducible research]]  github repository and start by running pythonBasic.ipynb notebook.
 I will go over basic of python and jupyter notebook. For Deep Neural networks, we will go over installation instruction later in the course.
 * Prerequisite
-Student should be comfortable with linear algebra, probability, statistics
+Student should be comfortable with linear algebra, probability, statistics,
 optimization and some programming experience. We will cover basics in the class.
 
 * Syllabus
