@@ -5,7 +5,7 @@
   - Office Hours: After the class T, Th,  3.50- 4.50. Email for 1-on-1 help.
 * TextBooks
 - *Required:*  [[https://www.cs.ubc.ca/~murphyk/MLbook/][Machine Learning: a Probabilistic Perspective by Kevin Patrick Murphy]]. Online version is available in the [[https://library.du.edu/][DU library]].
-- *Optional:* [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani]]. It is available online in pdf format
+- * - :* [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani]]. It is available online in pdf format
 - *Optional:* For more advance treatment [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning]]. It is available online in pdf format   
 * Course Description
 Pattern recognition is an exciting area. We will go though theory behind
@@ -24,7 +24,7 @@ You can also go to my  [[https://github.com/psnegi/PythonForReproducibleResearch
 I will go over basic of python and jupyter notebook. For Deep Neural networks, we will go over installation instruction later in the course.
 * Prerequisite
 Student should be comfortable with linear algebra, probability, statistics
-and some programming experience. We will cover basics in the class.
+optimization and some programming experience. We will cover basics in the class.
 
 * Syllabus
 Here are the main topics for the class. More topics can be added as per class interest and available time.
