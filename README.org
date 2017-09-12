@@ -60,7 +60,7 @@ ENCE 4630 will be asked to do slightly more homework questions.
 |----------------------------+-------------------------+
 
 
-
+* Course Lectures
 
 
 | Date       | Reading assignment      | uploaded slides |
