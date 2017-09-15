@@ -60,7 +60,7 @@ ENCE 4630 will be asked to do slightly more homework questions.
 |----------------------------+-------------------------+
 
 * Homework
-Homework numbers are as per ebook from the library
+Homework numbers are as per *Kevin Murphy ebook from the library*
 | HW | Due Date |                                                                               |
 |----+----------+-------------------------------------------------------------------------------|
 |    |          | This homework is meant to dust off your probability hat.                      |
