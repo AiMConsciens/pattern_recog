@@ -59,6 +59,15 @@ ENCE 4630 will be asked to do slightly more homework questions.
 | Final Project, Due 23 Nov  |                     20% |
 |----------------------------+-------------------------+
 
+* Homework
+Homework numbers are as per ebook from the library
+| HW | Due Date |                                                                               |
+|----+----------+-------------------------------------------------------------------------------|
+|    |          | This homework is just to dust off your probability hat.                       |
+|  1 | sep 21   | Chapter 2, 2.1(use bayes rule), 2.3, 2.6, 2.12                                |
+|    |          | 2.16(look for beta distribution definition and use gamma function definition) |
+|----+----------+-------------------------------------------------------------------------------|
+|    |          |                                                                               |
 
 * Course Lectures
 
