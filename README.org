@@ -61,13 +61,13 @@ ENCE 4630 will be asked to do slightly more homework questions.
 
 * Homework
 Homework numbers are as per *Kevin Murphy ebook from the library*
-| HW | Due Date |                                                                               |
-|----+----------+-------------------------------------------------------------------------------|
-|    |          | This homework is meant to dust off your probability hat.                      |
-|  1 | sep 21   | Chapter 2, 2.1(use bayes rule), 2.3, 2.6, 2.12                                |
-|    |          | 2.16(look for beta distribution definition and use gamma function definition) |
-|----+----------+-------------------------------------------------------------------------------|
-|    |          |                                                                               |
+| HW | Due Date |                                                                                                                                                |
+|----+----------+------------------------------------------------------------------------------------------------------------------------------------------------|
+|    |          | This homework is meant to dust off your probability hat.                                                                                       |
+|  1 | sep 21   | Chapter 2, 2.1(use bayes rule, condition on event actually observed. like in part a say N_b = number of boys, N_b no of girls), 2.3, 2.6, 2.12 |
+|    |          | 2.16(look for beta distribution definition and use gamma function definition)                                                                  |
+|----+----------+------------------------------------------------------------------------------------------------------------------------------------------------|
+|    |          |                                                                                                                                                |
 
 * Course Lectures
 
