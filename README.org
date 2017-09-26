@@ -61,14 +61,14 @@ ENCE 4630 will be asked to do slightly more homework questions.
 
 * Homework
 Homework numbers are as per *Kevin Murphy ebook from the library*
-|                                                                                                                                                | HW | Due Date |
-|------------------------------------------------------------------------------------------------------------------------------------------------+----+----------|
-| This homework is meant to dust off your probability hat.                                                                                       |    |          |
-| Chapter 2, 2.1(use bayes rule, condition on event actually observed. like in part a say N_b = number of boys, N_b no of girls), 2.3, 2.6, 2.12 |  1 | sep 21   |
-| 2.16(look for beta distribution definition and use gamma function definition)                                                                  |    |          |
-|------------------------------------------------------------------------------------------------------------------------------------------------+----+----------|
-| 3.6, 3.7, *3.11(only if enrolled in ENCE 4630)*, 3.20, 4.1(look into section 2.5.1 for definition of correlation coefficient), 4.14            |  2 | sep 28   |
-|                                                                                                                                                |    |          |
+|                                                                                                                                                | HW | Due Date | sol     |
+|------------------------------------------------------------------------------------------------------------------------------------------------+----+----------+---------|
+| This homework is meant to dust off your probability hat.                                                                                       |    |          |         |
+| Chapter 2, 2.1(use bayes rule, condition on event actually observed. like in part a say N_b = number of boys, N_b no of girls), 2.3, 2.6, 2.12 |  1 | sep 21   | [[./hw_sol/HW1_sol.pdf][HW1 sol]] |
+| 2.16(look for beta distribution definition and use gamma function definition)                                                                  |    |          |         |
+|------------------------------------------------------------------------------------------------------------------------------------------------+----+----------+---------|
+| 3.6, 3.7, *3.11(only if enrolled in ENCE 4630)*, 3.20, 4.1(look into section 2.5.1 for definition of correlation coefficient), 4.14            |  2 | sep 28   |         |
+|                                                                                                                                                |    |          |         |
 
 * Course Lectures
 
@@ -87,5 +87,5 @@ Homework numbers are as per *Kevin Murphy ebook from the library*
 |        | [optional] ISLR book from    4.4.1 upto 4.4.4.                                             | as  MVN lead to quadratic discriminant analysis(QDA) and linear discriminant analysis (LDA) when covariance matrices are tied i.e. $\Sigma_c = \Sigma$ |
 |        |                                                                                            | Here is the [[https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-examples][link]] to mechanics of Lagrangian multiplier. For more detail see this link of [[https://metacademy.org/graphs/concepts/lagrange_duality#focus%3Dlagrange_multipliers&mode%3Dlearn][metacademy]]. Go over free section                              |
 |--------+--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 26 Sep | K. M. book 5.7 upto  5.7.2.2                                                               |                                                                                                                                                        |
+| 26 Sep | K. M. book 5.7 upto  5.7.2.2                                                               | class [[./lectures/lecture5_scribe.pdf][scribed note]]  [[./lectures/lecture4.pdf][lecture 4 and 5 slides]]                                                                                                                                               |
 |        | 7.1- 7.33, 7.5.1                                                                           |                                                                                                                                                        |
