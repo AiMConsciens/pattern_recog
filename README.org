@@ -61,14 +61,29 @@ ENCE 4630 will be asked to do slightly more homework questions.
 
 * Homework
 Homework numbers are as per *Kevin Murphy ebook from the library*
-|                                                                                                                                                | HW | Due Date | sol     |
-|------------------------------------------------------------------------------------------------------------------------------------------------+----+----------+---------|
-| This homework is meant to dust off your probability hat.                                                                                       |    |          |         |
-| Chapter 2, 2.1(use bayes rule, condition on event actually observed. like in part a say N_b = number of boys, N_b no of girls), 2.3, 2.6, 2.12 |  1 | sep 21   | [[./hw_sol/HW1_sol.pdf][HW1 sol]] |
-| 2.16(look for beta distribution definition and use gamma function definition)                                                                  |    |          |         |
-|------------------------------------------------------------------------------------------------------------------------------------------------+----+----------+---------|
-| 3.6, 3.7, *3.11(only if enrolled in ENCE 4630)*, 3.20, 4.1(look into section 2.5.1 for definition of correlation coefficient), 4.14            |  2 | sep 28   |         |
-|                                                                                                                                                |    |          |         |
+| HW |                                                                                                                                                | Due Date | sol     |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|    | This homework is meant to dust off your probability hat.                                                                                       |          |         |
+|  1 | Chapter 2, 2.1(use bayes rule, condition on event actually observed. like in part a say N_b = number of boys, N_b no of girls), 2.3, 2.6, 2.12 | sep 21   | [[./hw_sol/HW1_sol.pdf][HW1 sol]] |
+|    | 2.16(look for beta distribution definition and use gamma function definition)                                                                  |          |         |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|  2 | 3.6, 3.7, *3.11(only if enrolled in ENCE 4630)*, 3.20, 4.1(look into section 2.5.1 for definition of correlation coefficient), 4.14            | sep 28   |         |
+|    |                                                                                                                                                |          |         |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|  3 | 4.21, 4.22, 5.2, 5.3, 5.10 , soon I will upload Jupyter notebook for spam filter exercise.                                                     | oct 5th  |         |
+|    |                                                                                                                                                |          |         |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|    |                                                                                                                                                |          |         |
+
+* Course announcements
+|--------+-----------------------------------------------------------------|
+| Date   | Announcement                                                    |
+|--------+-----------------------------------------------------------------|
+| 29 sep | There will be quiz on *3rd oct (Quiz1)* and *5th oct(Quiz2)*    |
+|        | They will include all the material covered till previous class. |
+|        |                                                                 |
+|--------+-----------------------------------------------------------------|
+
 
 * Course Lectures
 
