@@ -78,6 +78,8 @@ Homework numbers are as per *Kevin Murphy ebook from the library*
 |    |                                                                                                                                                |          |         |
 |----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
 |  3 | 4.21, 4.22, 5.2, 5.3                                                                                                                           | oct 5th  |         |
+|    | hint 5.3(b)  if r/s ->0 then there in no cost of rejecting.  so  what should be done?                                                          |          |         |
+|    | For other part analyze the inequality. (it become trivial even for most probable class). What should we do then?                               |          |         |
 |    |                                                                                                                                                |          |         |
 |----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
 |  4 | jupyter notebook for [[./notebooks/implementing_naive_bayes.ipynb][spam filter]]. answer the questions in the notebook.                                                                        | oct 10   |         |
