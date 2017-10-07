@@ -72,26 +72,26 @@ ENCE 4630 will be asked to do slightly more homework questions.
   
 * Homework
 Homework numbers are as per *Kevin Murphy ebook from the library*
-| HW |                                                                                                                                                          | Due Date | sol     |
-|----+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
-|    | This homework is meant to dust off your probability hat.                                                                                                 |          |         |
-|  1 | Chapter 2, 2.1(use bayes rule, condition on event actually observed. like in part a say N_b = number of boys, N_b no of girls), 2.3, 2.6, 2.12           | sep 21   | [[./hw_sol/HW1_sol.pdf][HW1 sol]] |
-|    | 2.16(look for beta distribution definition and use gamma function definition)                                                                            |          |         |
-|----+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
-|  2 | 3.6, 3.7, *3.11(only if enrolled in ENCE 4630)*, 3.20, 4.1(look into section 2.5.1 for definition of correlation coefficient), 4.14                      | sep 28   | [[./hw_sol/HW2_sol.pdf][HW2 sol]] |
-|    |                                                                                                                                                          |          |         |
-|----+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
-|  3 | 4.21, 4.22, 5.2, 5.3                                                                                                                                     | oct 5th  |         |
-|    | hint 5.3(b)  if r/s ->0 then there in no cost of rejecting.  so  what should be done?                                                                    |          |         |
-|    | For other part analyze the inequality. (it become trivial even for most probable class). What should we do then?                                         |          |         |
-|    |                                                                                                                                                          |          |         |
-|----+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
-|  4 | jupyter notebook for [[./notebooks/implementing_naive_bayes.ipynb][spam filter]]. answer the questions in the notebook.                                                                                  | oct 10   |         |
-|----+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
-|  5 | From the book using equation 7.30, 7.31 derive equation 7.32(ridge regression formulation), 7.2, 7.4, 7.9(will talk about it in the class for hint), 8.3 | oct 12   |         |
-|    |                                                                                                                                                          |          |         |
-|----+----------------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
-|    |                                                                                                                                                          |          |         |
+| HW |                                                                                                                                                | Due Date | sol     |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|    | This homework is meant to dust off your probability hat.                                                                                       |          |         |
+|  1 | Chapter 2, 2.1(use bayes rule, condition on event actually observed. like in part a say N_b = number of boys, N_b no of girls), 2.3, 2.6, 2.12 | sep 21   | [[./hw_sol/HW1_sol.pdf][HW1 sol]] |
+|    | 2.16(look for beta distribution definition and use gamma function definition)                                                                  |          |         |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|  2 | 3.6, 3.7, *3.11(only if enrolled in ENCE 4630)*, 3.20, 4.1(look into section 2.5.1 for definition of correlation coefficient), 4.14            | sep 28   | [[./hw_sol/HW2_sol.pdf][HW2 sol]] |
+|    |                                                                                                                                                |          |         |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|  3 | 4.21, 4.22, 5.2, 5.3                                                                                                                           | oct 5th  |         |
+|    | hint 5.3(b)  if r/s ->0 then there in no cost of rejecting.  so  what should be done?                                                          |          |         |
+|    | For other part analyze the inequality. (it become trivial even for most probable class). What should we do then?                               |          |         |
+|    |                                                                                                                                                |          |         |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|  4 | jupyter notebook for [[./notebooks/implementing_naive_bayes.ipynb][spam filter]]. answer the questions in the notebook.                                                                        | oct 10   |         |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|  5 | From the book using equation 7.30, 7.31 derive equation 7.32(ridge regression formulation), 7.2, 7.4,  8.3,                                    | oct 12   |         |
+|    | 7.9(*only if enrolled in ENCE 4630.* will talk about it in the class for hint),                                                                                                                                             |          |         |
+|----+------------------------------------------------------------------------------------------------------------------------------------------------+----------+---------|
+|    |                                                                                                                                                |          |         |
 
 * Course announcements
 |--------+-----------------------------------------------------------------|
