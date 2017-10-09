@@ -47,6 +47,10 @@ Here are the main topics for the class. More topics can be added as per class in
   - Artificial Neural Networks(ANN), End to end learning, cost function
   - Convolutional Neural Networks(CNN) for classification(image) and regression
   - Recurrent Neural Networks for natural language processing(NLP) and time series data
+* Datsets for final Projects
+  You can use any dataset you are interested in. Here is some listing of open datasets.
+  - [[https://archive.ics.uci.edu/ml/datasets.html][UC Irvine Machine Learning Repository]]
+  - [[https://www.kaggle.com/datasets][Kaggle Datasets]]  
 * Grading
 There will be one mid term, a final exam, homework assignments, in class quizzes.
 Worst 2 of your homework assignments and 2 quizzes will be dropped. Students enrolled in 
